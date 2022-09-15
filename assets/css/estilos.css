@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+.colores {
+    --bs-text-opacity: .5;
+    /* color: var(--bs-yellow); */
+    /* margin-top: 10px; */
+    background-color: black;
+    height: 1em;
+}
+
+.acordeon {
+    background-color: peru
+}
+
+aside {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+
+}
+
+.mainmenu {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+}
+
+p {
+    padding-left: 10px;
+    margin-bottom: 0px;
+    /* display: inline; */
+}
+
+.opacity {
+    --bs-bg-opacity: .5
+}
